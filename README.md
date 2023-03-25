@@ -1,4 +1,4 @@
-"# 2D-DTFT-for-Image-Processing" 
+2D DTFT of an Image for Image Processing using MATLAB
  
 This project is an implementation of the 2D Discrete Fourier Transform on existing images using filtering in the MATLAB program.
 
