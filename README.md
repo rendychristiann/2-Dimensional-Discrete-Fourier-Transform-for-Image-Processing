@@ -1,5 +1,5 @@
-<p align = "center"
-**2D DTFT of an Image for Image Processing using MATLAB**
+<p align = "center">
+     <b> 2D DTFT of an Image for Image Processing using MATLAB </b>
 </p>
 
 This project is an implementation of the 2D Discrete Fourier Transform on existing images using filtering in the MATLAB program.
@@ -26,3 +26,5 @@ We can obtain the real and imaginary components of the filtered image that has b
 <p align="center">
 <img width=700px height=auto  alt="image" src="https://user-images.githubusercontent.com/78911479/227729254-3ccfc0ba-8878-42c7-b1ac-136e648698c2.png">
 </p>
+
+
